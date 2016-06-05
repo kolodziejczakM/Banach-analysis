@@ -14,21 +14,21 @@ unless you are using <span style="font-style=italic;color:#067046;">Banach-analy
 ## Basic usage
 Just append some of attributes to script tag that you want to check:
 ```html
-<blockquote><script src="your-code.js" data-banach="functional_analysis" data-js-ver="es5" data-banach-angular="0" data-banach-gui="1">*</blockquote>
+<script src="your-code.js" data-banach="functional_analysis" data-js-ver="es5" data-banach-angular="0" data-banach-gui="1">*
 ```
-* Note that data-banach && data-js-ver attributes are required. Until version 1.0 Angular and ES6 are not supported.
-
+*Note that data-banach && data-js-ver attributes are required. Until version 1.0 Angular and ES6 are not supported.*
 
 then attach the library code:
 ```html
-<blockquote><script src="banach-analysis.js"></script></blockquote>
+<script src="banach-analysis.js"></script>
 ```
 and that's it!
 <img src="https://www.cubbyusercontent.com/pl/GUI%20alert.png/_4ad93362bf184711b80e9cd671d4dbb4" alt="Banach-analysis GUI"/>
 ## Advanced usage
 If you dont wan't to see any additional sh** on tested website you can hide banach GUI by simply set data-banach-gui to 0:
 ```html
-<blockquote><script src="your-code.js" data-banach="functional_analysis" data-js-ver="es5" data-banach-angular="0" data-banach-gui="0"></blockquote>```
+<script src="your-code.js" data-banach="functional_analysis" data-js-ver="es5" data-banach-angular="0" data-banach-gui="0">
+````
 <img src="https://www.cubbyusercontent.com/pl/console.png/_b4210dfda4d649369fe776e98c802594" alt="Banach-analysis without GUI"/>
 
 You can also open banach-analysis.js and check code-interface configuration panel:
