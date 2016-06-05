@@ -1,0 +1,2 @@
+babel banach-analysis.js --watch --out-file banach-compiled.js --presets es2015
+
