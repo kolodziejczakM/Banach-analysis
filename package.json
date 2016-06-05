@@ -1,0 +1,19 @@
+{
+  "name": "banach-analysis",
+  "version": "0.8.0",
+  "description": "JavaScript parsing library",
+  "main": "banach-analysis.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kolodziejczakM/Banach-analysis.git"
+  },
+  "author": "Kolodziejczak Marcin <kolodziejczak.mn@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kolodziejczakM/Banach-analysis/issues"
+  },
+  "homepage": "https://github.com/kolodziejczakM/Banach-analysis#readme"
+}
