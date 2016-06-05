@@ -33,6 +33,10 @@ If you dont wan't to see any additional sh** on tested website you can hide bana
 
 You can also open banach-analysis.js and check code-interface configuration panel:
 <img src="https://www.cubbyusercontent.com/pl/configurationCode.png/_8b5971ff3a8a4ffd9ac5f706ee2f5e36" alt="Configuration within library code"/>
+
+##Installation
+> npm install banach-analysis
+
 ## License
 Whole code is under MIT license. </br>
 Permissions: *commercial use, distribution, modification, private use* </br>
