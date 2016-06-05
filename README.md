@@ -35,6 +35,6 @@ You can also open banach-analysis.js and check code-interface configuration pane
 <img src="https://www.cubbyusercontent.com/pl/configurationCode.png/_8b5971ff3a8a4ffd9ac5f706ee2f5e36" alt="Configuration within library code"/>
 ## License
 Whole code is under MIT license.
-Permissions: *commercial use, distribution, modification, private use* \n
-Conditions: *License and copyright notice* \n
-Limitations: *Hold liable* 
+Permissions: *commercial use, distribution, modification, private use* </br>
+Conditions: *License and copyright notice* </br>
+Limitations: *Hold liable* </br>
