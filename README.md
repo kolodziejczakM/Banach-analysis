@@ -1,7 +1,7 @@
 ## Description
-Dealing with someone else's code is the norm. It takes more time and is often very tiring -
-unless you are using <span style="font-style=italic;color:#067046;">Banach-analysis</span>.
-<span style="font-style=italic;color:#067046;">Banach-analysis</span> is a JavaScript parsing library which:
+Dealing with someone else's code is the painful norm. It always takes more time and it's often very tiring...
+Unless you are using *Banach-analysis*.
+*Banach-analysis* is a JavaScript parsing library which:
 
 1. listing all functions predefined by another programmer (avoids standard JS fn's like: console, Math etc.)
 2. listing invoked functions
