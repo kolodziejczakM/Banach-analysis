@@ -1,8 +1,8 @@
 {
   "name": "banach-analysis",
-  "version": "0.8.8",
+  "version": "0.8.9",
   "description": "JavaScript parsing library",
-  "main": "index.js",
+  "main": "banach-analysis.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
