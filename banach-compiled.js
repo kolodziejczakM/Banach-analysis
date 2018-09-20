@@ -1,6 +1,7 @@
 "use strict";
 
 (function (window) {
+
   /*
   This program is distributed under the terms of the MIT license.
   Copyright 2016 - Marcin Kołodziejczak <kolodziejczak.mn@gmail.com>
