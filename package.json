@@ -1,6 +1,6 @@
 {
   "name": "banach-analysis",
-  "version": "1.2.9",
+  "version": "5.8.8",
   "description": "JavaScript parsing library",
   "main": "banach-analysis.js",
   "scripts": {
